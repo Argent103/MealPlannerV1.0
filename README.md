@@ -25,3 +25,9 @@ BodyBytes V 1.2
 - Login page now has a remember me checkbox thus even if you close the app the user still stays signed in
 - Login page has now a show password checkbox to see the password the user is typing
 - A logout button has been added currently temporarliy located on the main menu page
+
+V1.3 
+- Now ask newly registered users to input their Height and weight to get B.M.I
+-Now ask newly registered users to input their Birthday and Age
+- A settings button in the main menu that shows the users personal info (although its currently null need to fix, gonna fix tommorow) and a log out button
+- Now has both a daily tracker which shows your daily progress and a weekly tracker which shows your average weight every week, and if you check it while there are still days where you have not finished recording for a week don't worry those data would be ignored.
